@@ -1,0 +1,1 @@
+$('nav a[href^="' + location.pathname.split("/").pop().split(".")[0] + '"]').addClass('active');
