@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="nl">
 
-<?php include "./assets/components/head.html" ?>
+<?php include "./assets/components/head.phtml" ?>
 
 <body>
 
     <div class="masthead clearfix">
-        <?php include "./assets/components/nav.html" ?>
+        <?php include "./assets/components/nav.phtml" ?>
     </div>
 
     <div class="site-wrapper">
@@ -17,8 +17,6 @@
                 <div id="contact" class="inner cover">
 
                     <h2 class="cover-heading">Contact</h2>
-
-                    <p class="lead">
 
                         <h4>Algemene Contacten</h4>
                         <table class="table table-hover bg-info text-white">
@@ -33,7 +31,7 @@
                                 <tr>
                                     <td>Jack Berkhout</td>
                                     <td>06 5314 9360</td>
-                                    <td>jpm.berkhout@quicknet.nl</td>
+                                    <td><a href="mailto:jpm.berkhout@quicknet.nl?subject=vanaf prutracesite">jpm.berkhout@quicknet.nl</a></td>
                                 </tr>
                                 <tr>
                                     <td>Café 't Centrum</td>
@@ -43,31 +41,25 @@
                             </tbody>
                         </table>
 
-                    </p>
-
-                    <p class="lead">
-
                         <h4>Extra Info</h4>
                         <table class="table table-hover bg-info text-white">
                             <thead>
                                 <tr>
                                     <th scope="col"></th>
-                                    <th scope="col">Waar</th>
+                                    <th scope="col">Waar?</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>Startlokatie</td>
-                                    <td>Oosterboekelweg 48</td>
+                                    <td><a href="https://www.google.nl/maps/@52.7344096,4.9830102,173m/data=!3m1!1e3" target="_blank">Oosterboekelweg 48</a></td>
                                 </tr>
                                 <tr>
                                     <td>Ophalen startbewijs</td>
-                                    <td>Driestedenweg 126, De Weere (Café 't Centrum)</td>
+                                    <td><a href="https://www.google.nl/maps/place/Driestedenweg+126,+1661+BL+De+Weere" target="_blank">Driestedenweg 126, De Weere (Café 't Centrum)</a></td>
                                 </tr>
                             </tbody>
                         </table>
-
-                    </p>
 
                 </div>
 

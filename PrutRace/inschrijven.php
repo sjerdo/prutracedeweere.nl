@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="nl">
 
-<?php include "./assets/components/head.html" ?>
+<?php include "./assets/components/head.phtml" ?>
 
 <body>
 
   <div class="masthead clearfix">
-    <?php include "./assets/components/nav.html" ?>
+    <?php include "./assets/components/nav.phtml" ?>
   </div>
 
   <div class="site-wrapper">
@@ -21,7 +21,7 @@
           <p id="inschrijfTekst" class="lead">...</p>
 
           <p class="lead">
-            <label><input type="checkbox" id="checkbox" onchange="document.getElementById('inschrijfBtn').disabled = !this.checked;" disabled/> Ik ga akkoord met de regelementen / voorwaarden </label>
+            <label><input type="checkbox" id="checkbox" onchange="document.getElementById('inschrijfBtn').disabled = !this.checked;" disabled/> Ik ga akkoord met het regelement / de voorwaarden </label>
           </p>
 
           <p class="lead">
@@ -32,7 +32,7 @@
             <ul class="faq">
               <li>
 
-                <h3 class="question">Regelementen / Voorwaarden
+                <h3 class="question">Regelement / Voorwaarden
                   <div class="plus-minus-toggle collapsed"></div>
                 </h3>
 
@@ -81,8 +81,8 @@
     </div>
   </div>
 
-  <script src="assets/scripts/countdownTimer.js" type="text/javascript"></script>
-  <script src="assets/scripts/inschrijven.js" type="text/javascript"></script>
+  <script src="/assets/scripts/countdownTimer.js" type="text/javascript"></script>
+  <script src="/assets/scripts/inschrijven.js" type="text/javascript"></script>
 </body>
 
 </html>

@@ -1,0 +1,18 @@
+# Set MultiViews to hide file extensions.
+Options +FollowSymLinks +MultiViews +Indexes
+DirectoryIndex index.php
+AddType application/x-httpd-php .php
+
+RewriteEngine On
+
+# prepend www. to url if host not starts with www.
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteCond %{REQUEST_URI}  !\.well-known
+RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# Rewrite old URLs.
+RewriteRule ^contact\.htm$ /contact [R=301,L]
+RewriteRule ^fotos\.htm$ /videos [R=301,L]
+RewriteRule ^parcours\.htm$ /parcours [R=301,L]
+RewriteRule ^reglement\.htm$ /inschrijven [R=301,L]
+RewriteRule ^sponsors[0-9]*\.htm$ /sponsors [R=301,L]

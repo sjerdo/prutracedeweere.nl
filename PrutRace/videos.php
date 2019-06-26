@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="nl">
 
-<?php include "./assets/components/head.html" ?>
+<?php include "./assets/components/head.phtml" ?>
 
 <body>
 
     <div class="masthead clearfix">
-        <?php include "./assets/components/nav.html" ?>
+        <?php include "./assets/components/nav.phtml" ?>
     </div>
 
     <div class="site-wrapper">
