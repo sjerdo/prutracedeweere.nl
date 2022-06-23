@@ -27,10 +27,15 @@
             <h2 class="cover-heading">Nieuws</h2>
             <p class="lead">
               Hallo sportievelingen, liefhebbers, loltrappers en prutbandieten,<br><br>
+              9 juli om 19.00 uur is het weer zo ver: Prutrace De Weere!<br>
               Zin om je weg te ploeteren door <b>3,5 km weiland, bouwland en 40 sloten?</b><br>
-              Het verkleed-thema voor dit jaar is '<b>What Is Your Dream Job?</b>' en voor de leukste/gekste hebben we uiteraard mooie prijzen.<br><br>
+              Haal je oude schoenen en kleding maar weer uit de kast, want na twee jaar zijn wij weer terug van weggeweest met de 22ste editie van Prutrace De Weere!<br>
+              Het verkleed-thema voor dit jaar is '<b>Iconic Groups</b>' en voor de leukste/gekste hebben we uiteraard mooie prijzen.<br><br>
               Deze mooie race hadden we nooit kunnen houden zonder onze <a href="sponsors">sponsoren</a> en vrijwilligers.<br>
-              We hopen je te zien op 13 juli. Vanaf 18.00 uur kun je je startnummer ophalen in de tent links van Sportcafé ‘t Centrum
+              We hopen je bij de start te zien op 9 juli om 19.00 uur.<br>
+              Vanaf 18.00 uur kun je je startnummer ophalen in de tent links van Sportcafé ‘t Centrum<br><br>
+              
+              Anders dan anders is de finish dit jaar op het kermisterrein ter hoogte van café 't Centrum. Later hier meer informatie over. Verder is er geen tijdregistratie, maar zal er wel een digitale wedstrijdklok aanwezig zijn. Dus daag jouw vrienden, familie, collega's en kennissen maar alvast uit!
             </p>
 
             <h5 class="cover-heading">Prijsuitreiking</h5>
