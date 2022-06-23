@@ -1,5 +1,6 @@
 // Set the date we're counting down to
-var countDownDate = new Date("July 9, 2022 19:00:00").getTime();
+var countDownDate = new Date("July 9, 2022 19:00:00");
+var countDownTimestamp = countDownDate.getTime();
 var year = countDownDate.getFullYear();
 var registrationEnabled = false;
 
@@ -10,7 +11,7 @@ var x = setInterval(function () {
     var now = new Date().getTime();
 
     // Find the distance between now and the count down date
-    var distance = countDownDate - now;
+    var distance = countDownTimestamp - now;
 
     // If the count down is finished, write some text 
     if (distance < 0) {
