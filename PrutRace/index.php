@@ -34,8 +34,11 @@
               Deze mooie race hadden we nooit kunnen houden zonder onze <a href="sponsors">sponsoren</a> en vrijwilligers.<br>
               We hopen je bij de start te zien op 9 juli om 19.00 uur.<br>
               Vanaf 18.00 uur kun je je startnummer ophalen in de tent links van Sportcafé ‘t Centrum<br><br>
-              
-              Anders dan anders is de finish dit jaar op het kermisterrein ter hoogte van café 't Centrum. Later hier meer informatie over. Verder is er geen tijdregistratie, maar zal er wel een digitale wedstrijdklok aanwezig zijn. Dus daag jouw vrienden, familie, collega's en kennissen maar alvast uit!
+
+              Anders dan anders is de finish dit jaar op het kermisterrein ter hoogte van café 't Centrum. Later hier meer informatie over.<br>
+              Verder is er geen tijdregistratie, maar zal er wel een digitale wedstrijdklok aanwezig zijn.<br><br>
+
+              Dus daag jouw vrienden, familie, collega's en kennissen maar alvast uit!
             </p>
 
             <h5 class="cover-heading">Prijsuitreiking</h5>
