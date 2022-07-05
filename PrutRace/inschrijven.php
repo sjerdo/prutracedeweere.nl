@@ -25,7 +25,7 @@
           </p>
 
           <p class="lead">
-            <button type="button" id="inschrijfBtn" class="btn btn-lg btn-default" onclick="window.location='https://openentry.entrysystem.live/nl/?id=Zq7aqe9lI0uLk6gINYUE8Q';" disabled> Schijf mij maar in! </button>
+            <button type="button" id="inschrijfBtn" class="btn btn-lg btn-default" onclick="window.location='https://kermisdeweere.nl/tickets/';" disabled> Schijf mij maar in! </button>
           </p>
 
           <div class="parent-container">
