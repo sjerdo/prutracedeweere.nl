@@ -20,7 +20,7 @@
 
                     <p class="lead">
 
-                        <img src="/assets/img/parcours.jpg" alt="Prutrace Parcours">
+                        <img src="/assets/img/parcours_2022.png" alt="Prutrace Parcours">
 
                     </p>
 
