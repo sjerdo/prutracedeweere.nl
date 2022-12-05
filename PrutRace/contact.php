@@ -32,7 +32,6 @@
                                     <td>Café 't Centrum</td>
                                     <td>0229 581 373</td>
                                     <td><a href="mailto:info@centrumdeweere.nl?subject=vanaf prutracesite">info@centrumdeweere.nl</a></td>
-                                    <td>-</td>
                                 </tr>
                             </tbody>
                         </table>
