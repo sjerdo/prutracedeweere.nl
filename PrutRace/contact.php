@@ -29,13 +29,9 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Jack Berkhout</td>
-                                    <td>06 5314 9360</td>
-                                    <td><a href="mailto:jpm.berkhout@quicknet.nl?subject=vanaf prutracesite">jpm.berkhout@quicknet.nl</a></td>
-                                </tr>
-                                <tr>
                                     <td>Café 't Centrum</td>
                                     <td>0229 581 373</td>
+                                    <td><a href="mailto:info@centrumdeweere.nl?subject=vanaf prutracesite">info@centrumdeweere.nl</a></td>
                                     <td>-</td>
                                 </tr>
                             </tbody>
