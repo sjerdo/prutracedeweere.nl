@@ -1,10 +1,10 @@
 // Set the date we're counting down to
-var countDownDate = new Date("July 9, 2022 19:00:00");
+var countDownDate = new Date("July 8, 2023 00:00:00");
 var countDownTimestamp = countDownDate.getTime();
 var year = countDownDate.getFullYear();
 var registrationEnabled = true;
 
-// Update the count down every 1 second
+// Update the count down every second
 var x = setInterval(function () {
 
     // Get today's date and time

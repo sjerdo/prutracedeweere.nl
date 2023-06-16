@@ -26,19 +26,20 @@
 
             <h2 class="cover-heading">Nieuws</h2>
             <p class="lead">
-              Hallo sportievelingen, liefhebbers, loltrappers en prutbandieten,<br><br>
-              9 juli om 19.00 uur is het weer zo ver: Prutrace De Weere!<br>
-              Zin om je weg te ploeteren door <b>3,5 km weiland, bouwland en 40 sloten?</b><br>
-              Haal je oude schoenen en kleding maar weer uit de kast, want na twee jaar zijn wij weer terug van weggeweest met de 22ste editie van Prutrace De Weere!<br>
-              Het verkleed-thema voor dit jaar is '<b>Iconic Groups</b>' en voor de leukste/gekste hebben we uiteraard mooie prijzen.<br><br>
-              Deze mooie race hadden we nooit kunnen houden zonder onze <a href="sponsors">sponsoren</a> en vrijwilligers.<br>
-              We hopen je bij de start te zien op 9 juli om 19.00 uur.<br>
-              Vanaf 18.00 uur kun je je startnummer ophalen in de tent links van Sportcafé ‘t Centrum<br><br>
+            Beste prutters, kroospiloten en hardloopfanaten,<br><br>
 
-              Anders dan anders is de finish dit jaar op het kermisterrein ter hoogte van café 't Centrum. Later hier meer informatie over.<br>
-              Verder is er geen tijdregistratie, maar zal er wel een digitale wedstrijdklok aanwezig zijn.<br><br>
+            Prutrace De Weere 2023 staat weer op de stoep ! Heb je zin om jezelf door 4,5 km aan weiland, 40 slootjes en de nodige meters bagger te zwoegen, sleuren en te slepen ?! Dan zit je hier goed !<br><br>
 
-              Dus daag jouw vrienden, familie, collega's en kennissen maar alvast uit!
+            Het thema van dit jaar is <b>Tijdmachine</b>. Ben je altijd met de tijd meegegaan, leef je al in de toekomst of heb je al jaren onder een steen gelegen ? Van farao, transformer of zelfs look-a-like van één van je ouders in hun jeugdige jaren, alles kan en alles mag.<br><br>
+
+            Het parcours is weer met de nodige zorg uitgestippeld en het ziet er naar ons idee iets te groen uit allemaal, daar willen jullie toch verandering in brengen ? Schrijf je dus snel in en daag je vrienden en familie uit ! Wij hebben er zin in, jullie vast ook, dus tot <b>zaterdag 8 juli 19:00 !</b><br><br>
+
+            Het inschrijven kan tot en met 7 juli 2023.<br><br>
+
+            Prutgroet,<br>
+            Organisatie Prutrace De Weere<br><br>
+
+            P.S. Deelname is vanaf 14 jaar (of als je 14 jaar wordt in 2023) en op eigen risico.
             </p>
 
             <h5 class="cover-heading">Prijsuitreiking</h5>
