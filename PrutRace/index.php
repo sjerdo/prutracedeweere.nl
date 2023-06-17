@@ -49,9 +49,11 @@
 
             <h5 class="cover-heading">FAQ / Veelgestelde vragen</h5>
             <p class="lead">
+            Stipt 19:00 zal het startschot gegeven worden.<br><br>
+
             Inschrijven is alleen digitaal mogelijk<br><br>
 
-            Startbewijs van de online inschrijving kan vanaf een uur van tevoren opgehaald worden bij café 't Centrum. Ter plekke inschrijven is niet mogelijk.<br><br>
+            Startbewijs van de online inschrijving kan vanaf 18:00 opgehaald worden bij café 't Centrum. Ter plekke inschrijven is niet mogelijk.<br><br>
 
             Persoonlijke spullen kunnen achter worden gelaten bij 't Centrum bij het startbewijsloket.<br><br>
 
