@@ -43,12 +43,13 @@ body {
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
-  width: 95%;
+  width: 100%;
   height: 95%;
   /* For at least Firefox */
   min-height: 100%;
   -webkit-box-shadow: inset 0 0 100px rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 100px rgba(0, 0, 0, .5);
+  padding: 5%;
 }
 
 .site-wrapper-inner {
@@ -141,7 +142,7 @@ nav ul li a.dropdown-item {
 
 .parent-container {
   padding:0 20px 0 20px;
-  
+
   width:100%;
   background: #8F2D56;
 }
