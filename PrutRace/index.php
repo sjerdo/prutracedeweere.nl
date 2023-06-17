@@ -44,7 +44,21 @@
 
             <h5 class="cover-heading">Prijsuitreiking</h5>
             <p class="lead">
-              De prijsuitreiking is direct na de race om 20.00 uur bij de Finish (We brengen geen prijzen na en het is ook niet mogelijk om die achteraf ergens af te halen). In tegenstelling tot eerdere jaren is er dit jaar GEEN mogelijkheid om na afloop te douchen bij voetbalvereniging DWB. Let dus op dat je je goed laat afsproeien door de brandweer.
+            Voor wat betreft de prijsuitreiking. Deze vindt plaats op de weg voor café 't Centrum op het kermisterrein. De prijsuitreiking begint om 20:00 met wederom unieke prijzen.<br><br>
+            </p>
+
+            <h5 class="cover-heading">FAQ / Veelgestelde vragen</h5>
+            <p class="lead">
+            Inschrijven is alleen digitaal mogelijk<br><br>
+
+            Startbewijs van de online inschrijving kan vanaf een uur van tevoren opgehaald worden bij café 't Centrum. Ter plekke inschrijven is niet mogelijk.<br><br>
+
+            Persoonlijke spullen kunnen achter worden gelaten bij 't Centrum bij het startbewijsloket.<br><br>
+
+            Wat te doen met het meegenomen kroos en de broekpalingen?<br><br>
+
+            Ook dit jaar kan je weer worden schoongespoeld door de vrijwilligers van de brandweer die ook dit jaar bij 't Centrum staan.
+            Er is GEEN mogelijkheid om na afloop te douchen bij voetbalvereniging DWB. Let dus op dat je je goed laat afsproeien door de brandweer.<br><br>
             </p>
 
           </div>
