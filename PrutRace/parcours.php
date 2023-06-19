@@ -20,13 +20,13 @@
 
                     <p class="lead">
 
-                        <img src="/assets/img/parcours_2022.png" alt="Prutrace Parcours">
+                        <img src="/assets/img/parcours_2023.png" alt="Prutrace Parcours">
 
                     </p>
 
                     <p class="lead">
 
-                        Het parcours is ongeveer 3,5 km lang en je gaat door circa 40 sloten.
+                        Het parcours is ongeveer 4,5 km lang en je gaat door circa 40 sloten.
                         De snelle lopers zijn binnen 25 minuten binnen.
                         De iets minder getrainden zijn binnen een uur binnen.
 
