@@ -13,18 +13,27 @@ var x = setInterval(function () {
     // Find the distance between now and the count down date
     var distance = countDownTimestamp - now;
 
+    var registrationPageButton = document.getElementById("inschijfPagineBtn");
+
     // If the countdown is finished, write some text
     if (distance < 0) {
         clearInterval(x);
         document.getElementById("inschrijfTekst").innerHTML = "Inschrijven voor Prutrace de Weere " + year + " is gesloten." + "<br>" + "Inschrijven voor Prutrace de Weere " + (year + 1) + " is momenteel nog niet mogelijk. ";
-        document.getElementById("inschijfPagineBtn").innerHTML = "Inschijving is gesloten";
+
+        if (registrationPageButton) {
+            registrationPageButton.innerHTML = "Inschijving is gesloten";
+        }
     } else if (!registrationEnabled) {
         clearInterval(x);
         document.getElementById("inschrijfTekst").innerHTML = "De inschrijving voor Prutrace de Weere " + year + " is nog niet geopend." + "<br>" + "Binnenkort kun je je hier inschrijven voor Prutrace de Weere " + year + "!";
-        document.getElementById("inschijfPagineBtn").innerHTML = "Inschijving is nog niet geopend";
+        if (registrationPageButton) {
+            registrationPageButton.innerHTML = "Inschijving is nog niet geopend";
+        }
     } else {
         document.getElementById("inschrijfTekst").innerHTML = "Inschijving is open";
-        document.getElementById("inschijfPagineBtn").classList.remove("disabled");
+        if (registrationPageButton) {
+            registrationPageButton.classList.remove("disabled");
+        }
 
         var checkboxElement = document.getElementById('checkbox');
         if (checkboxElement) {
