@@ -53,7 +53,7 @@
 
             Inschrijven is alleen digitaal mogelijk<br><br>
 
-            Startbewijs van de online inschrijving kan vanaf 18:00 opgehaald worden bij café 't Centrum. Ter plekke inschrijven is niet mogelijk.<br><br>
+            Startbewijs van de online inschrijving kan vanaf 18:15 opgehaald worden bij café 't Centrum. Ter plekke inschrijven is niet mogelijk.<br><br>
 
             Persoonlijke spullen kunnen achter worden gelaten bij 't Centrum bij het startbewijsloket.<br><br>
 
