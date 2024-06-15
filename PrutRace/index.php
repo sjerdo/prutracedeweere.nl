@@ -28,7 +28,7 @@
             <p class="lead">
             Beste prutters, kroospiloten en hardloopfanaten,<br><br>
 
-            Prutrace De Weere 2024 staat weer op de stoep, dit jaar zelfs de 30e editie! Heb je zin om jezelf door 4,5 km aan weiland, 35 slootjes en de nodige meters bagger te zwoegen, sleuren en te slepen?! Dan zit je hier goed!<br><br>
+            Prutrace De Weere 2024 staat weer op de stoep, dit jaar zelfs de <b>30e editie!</b> Heb je zin om jezelf door 4,5 km aan weiland, 35 slootjes en de nodige meters bagger te zwoegen, sleuren en te slepen?! Dan zit je hier goed!<br><br>
 
             Het thema van dit jaar is <b>Lookalike</b>. 's Ochtends weleens in de spiegel gekeken en gedacht, goh die Schwarzenegger is er niks bij?! Of zie je na een leuke avond de volgende ochtend Karbonkel in je spiegel? Voel je jezelf Piet Piraat of juist Miss Piggy? Eén ding is zeker: voor een goed resultaat is een goede outfit benodigd!<br><br>
 
@@ -55,7 +55,7 @@
 
             Startbewijs van de online inschrijving kan vanaf 18:15 opgehaald worden bij café 't Centrum. Ter plekke inschrijven is niet mogelijk.<br><br>
 
-            Persoonlijke spullen kunnen achter worden gelaten bij 't Centrum bij het startbewijsloket.<br><br>
+            Persoonlijke spullen kunnen achter worden gelaten bij 't Centrum bij het startbewijsloket. Er zijn geen kluisjes aanwezig en de organisatie is niet verantwoordelijk voor de spullen.<br><br>
 
             Wat te doen met het meegenomen kroos en de broekpalingen?<br><br>
 
