@@ -112,7 +112,7 @@ nav ul li a.dropdown-item {
 }
 
 .inner.cover {
-  background: rgb(0, 116, 6);
+  background: maroon;
   padding: 20px;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -131,7 +131,7 @@ nav ul li a.dropdown-item {
 
 #inschrijven,
 #contact {
-  background: rgb(162, 8, 252);
+  background: maroon;
 }
 
 #parcours img,
