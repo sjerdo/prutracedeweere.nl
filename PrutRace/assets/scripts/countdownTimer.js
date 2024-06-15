@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-var countDownDate = new Date("July 8, 2023 00:00:00");
+var countDownDate = new Date("July 13, 2024 00:00:00");
 var countDownTimestamp = countDownDate.getTime();
 var year = countDownDate.getFullYear();
 var registrationEnabled = true;
