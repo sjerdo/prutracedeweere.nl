@@ -26,7 +26,7 @@
 
                     <p class="lead">
 
-                        Het parcours is ongeveer 4,5 km lang en je gaat door circa 40 sloten.
+                        Het parcours is ongeveer 4,5 km lang en je gaat door circa 35 sloten.
                         De snelle lopers zijn binnen 25 minuten binnen.
                         De iets minder getrainden zijn binnen een uur binnen.
 
