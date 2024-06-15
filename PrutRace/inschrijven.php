@@ -25,7 +25,7 @@
           </p>
 
           <p class="lead">
-            <button type="button" id="inschrijfBtn" class="btn btn-lg btn-default" onclick="window.location='https://totaltiming.inschrijven.nl/form/2024071351424-nl';" disabled> Schijf mij maar in! </button>
+            <button type="button" id="inschrijfBtn" class="btn btn-lg btn-default" onclick="window.location='https://totaltiming.inschrijven.nl/form/2024071351424-nl';" disabled> Schrijf mij maar in! </button>
           </p>
 
           <div class="parent-container">

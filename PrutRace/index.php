@@ -18,7 +18,7 @@
 
           <p id="inschrijfTekst" class="lead">...</p>
           <p class="lead">
-            <a id="inschijfPagineBtn" href="inschrijven" class="btn btn-lg btn-default disabled">Ga naar inschrijven</a>
+            <a id="inschrijfPagineBtn" href="inschrijven" class="btn btn-lg btn-default disabled">Ga naar inschrijven</a>
           </p>
 
 

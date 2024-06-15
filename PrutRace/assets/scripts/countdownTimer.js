@@ -13,7 +13,7 @@ var x = setInterval(function () {
     // Find the distance between now and the count down date
     var distance = countDownTimestamp - now;
 
-    var registrationPageButton = document.getElementById("inschijfPagineBtn");
+    var registrationPageButton = document.getElementById("inschrijfPagineBtn");
 
     // If the countdown is finished, write some text
     if (distance < 0) {
