@@ -21,16 +21,16 @@ var x = setInterval(function () {
         document.getElementById("inschrijfTekst").innerHTML = "Inschrijven voor Prutrace de Weere " + year + " is gesloten." + "<br>" + "Inschrijven voor Prutrace de Weere " + (year + 1) + " is momenteel nog niet mogelijk. ";
 
         if (registrationPageButton) {
-            registrationPageButton.innerHTML = "Inschijving is gesloten";
+            registrationPageButton.innerHTML = "Inschrijving is gesloten";
         }
     } else if (!registrationEnabled) {
         clearInterval(x);
         document.getElementById("inschrijfTekst").innerHTML = "De inschrijving voor Prutrace de Weere " + year + " is nog niet geopend." + "<br>" + "Binnenkort kun je je hier inschrijven voor Prutrace de Weere " + year + "!";
         if (registrationPageButton) {
-            registrationPageButton.innerHTML = "Inschijving is nog niet geopend";
+            registrationPageButton.innerHTML = "Inschrijving is nog niet geopend";
         }
     } else {
-        document.getElementById("inschrijfTekst").innerHTML = "Inschijving is open";
+        document.getElementById("inschrijfTekst").innerHTML = "Inschrijving is open";
         if (registrationPageButton) {
             registrationPageButton.classList.remove("disabled");
         }
