@@ -21,7 +21,7 @@
           <p id="inschrijfTekst" class="lead">...</p>
 
           <p class="lead">
-            <label><input type="checkbox" id="checkbox" onchange="document.getElementById('inschrijfBtn').disabled = !this.checked;" disabled/> Ik ga akkoord met het regelement / de voorwaarden </label>
+            <label><input type="checkbox" id="checkbox" onchange="document.getElementById('inschrijfBtn').disabled = !this.checked;" disabled/> Ik ga akkoord met het reglement / de voorwaarden </label>
           </p>
 
           <p class="lead">
@@ -32,7 +32,7 @@
             <ul class="faq">
               <li>
 
-                <h3 class="question">Regelement / Voorwaarden
+                <h3 class="question">Reglement / Voorwaarden
                   <div class="plus-minus-toggle collapsed"></div>
                 </h3>
 
