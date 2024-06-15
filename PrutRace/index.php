@@ -28,18 +28,18 @@
             <p class="lead">
             Beste prutters, kroospiloten en hardloopfanaten,<br><br>
 
-            Prutrace De Weere 2023 staat weer op de stoep ! Heb je zin om jezelf door 4,5 km aan weiland, 40 slootjes en de nodige meters bagger te zwoegen, sleuren en te slepen ?! Dan zit je hier goed !<br><br>
+            Prutrace De Weere 2024 staat weer op de stoep, dit jaar zelfs de 30e editie! Heb je zin om jezelf door 4,5 km aan weiland, 35 slootjes en de nodige meters bagger te zwoegen, sleuren en te slepen?! Dan zit je hier goed!<br><br>
 
-            Het thema van dit jaar is <b>Tijdmachine</b>. Ben je altijd met de tijd meegegaan, leef je al in de toekomst of heb je al jaren onder een steen gelegen ? Van farao, transformer of zelfs look-a-like van één van je ouders in hun jeugdige jaren, alles kan en alles mag.<br><br>
+            Het thema van dit jaar is <b>Lookalike</b>. 's Ochtends weleens in de spiegel gekeken en gedacht, goh die Schwarzenegger is er niks bij?! Of zie je na een leuke avond de volgende ochtend Karbonkel in je spiegel? Voel je jezelf Piet Piraat of juist Miss Piggy? Eén ding is zeker: voor een goed resultaat is een goede outfit benodigd!<br><br>
 
-            Het parcours is weer met de nodige zorg uitgestippeld en het ziet er naar ons idee iets te groen uit allemaal, daar willen jullie toch verandering in brengen ? Schrijf je dus snel in en daag je vrienden en familie uit ! Wij hebben er zin in, jullie vast ook, dus tot <b>zaterdag 8 juli 19:00 !</b><br><br>
+            Het parcours is weer met de nodige zorg uitgestippeld en het ziet er naar ons idee iets te groen uit allemaal, daar willen jullie toch verandering in brengen? Schrijf je dus snel in en daag je vrienden en familie uit! Wij hebben er zin in, jullie vast ook, dus we zien jullie aan de start op <b>zaterdag 13 juli om 19:00!</b><br><br>
 
-            Het inschrijven kan tot en met 7 juli 2023.<br><br>
+            Het inschrijven kan tot en met 12 juli 2024.<br><br>
 
             Prutgroet,<br>
             Organisatie Prutrace De Weere<br><br>
 
-            P.S. Deelname is vanaf 14 jaar (of als je 14 jaar wordt in 2023) en op eigen risico.
+            P.S. Deelname is vanaf 14 jaar (of als je 14 jaar wordt in 2024) en op eigen risico.
             </p>
 
             <h5 class="cover-heading">Prijsuitreiking</h5>
