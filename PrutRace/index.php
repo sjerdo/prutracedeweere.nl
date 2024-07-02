@@ -13,13 +13,19 @@
 
       <div class="cover-container">
 
-        <div id="inschrijven" class="inner cover">
+        <div id="home" class="inner cover">
           <h2 class="cover-heading">Inschrijven</h2>
 
           <p id="inschrijfTekst" class="lead">...</p>
-          <p class="lead">
+          <p>
             <a id="inschrijfPagineBtn" href="inschrijven" class="btn btn-lg btn-default disabled">Ga naar inschrijven</a>
           </p>
+
+
+          <h3 class="cover-heading">Kids Prutrace</h3>
+            <p class="lead">
+                Dit jaar is er ook een kinder prutrace. Voor meer info, bekijk de <a href="/kinderprutrace">Kinder Prutrace</a>.
+            </p>
 
 
           <div id="nieuws" class="inner cover">
@@ -39,7 +45,7 @@
             Prutgroet,<br>
             Organisatie Prutrace De Weere<br><br>
 
-            P.S. Deelname is vanaf 14 jaar (of als je 14 jaar wordt in 2024) en op eigen risico.
+            P.S. Deelname is vanaf 14 jaar (of als je 14 jaar wordt in 2024) en op eigen risico. Ben je jonger dan 14, zie dan info <a href="/kinderprutrace">Kids Prutrace</a>.
             </p>
 
             <h5 class="cover-heading">Prijsuitreiking</h5>

@@ -61,7 +61,14 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
-#nieuws a {
+#nieuws a,
+.lead a {
+  color: darkorange;
+  text-shadow: 1px #333;
+}
+
+#nieuws a,
+.lead a {
   color: darkorange;
   text-shadow: 1px #333;
 }
@@ -129,6 +136,7 @@ nav ul li a.dropdown-item {
  * Inschrijven
  */
 
+#home,
 #inschrijven,
 #contact {
   background: maroon;
