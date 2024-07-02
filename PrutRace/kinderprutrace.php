@@ -61,8 +61,6 @@ include "./assets/components/head.phtml" ?>
     </div>
 </div>
 
-<script src="/assets/scripts/countdownTimer.js" type="text/javascript"></script>
-
 </body>
 
 </html>
