@@ -18,7 +18,7 @@
 
           <p id="inschrijfTekst" class="lead">...</p>
           <p>
-            <a id="inschrijfPagineBtn" href="inschrijven" class="btn btn-lg btn-default disabled">Ga naar inschrijven</a>
+            <a id="inschrijfPagineBtn" href="/inschrijven" class="btn btn-lg btn-default disabled">Ga naar inschrijven</a>
           </p>
 
 
@@ -34,13 +34,13 @@
             <p class="lead">
             Beste prutters, kroospiloten en hardloopfanaten,<br><br>
 
-            Prutrace De Weere 2024 staat weer op de stoep, dit jaar zelfs de <b>30e editie!</b> Heb je zin om jezelf door 4,5 km aan weiland, 35 slootjes en de nodige meters bagger te zwoegen, sleuren en te slepen?! Dan zit je hier goed!<br><br>
+            Prutrace De Weere 2025 staat weer op de stoep, dit jaar de <b>25e editie!</b> Heb je zin om jezelf door circa 4,5 km aan weiland, 35 slootjes en de nodige meters bagger te zwoegen, sleuren en te slepen?! Dan zit je hier goed!<br><br>
 
-            Het thema van dit jaar is <b>Lookalike</b>. 's Ochtends weleens in de spiegel gekeken en gedacht, goh die Schwarzenegger is er niks bij?! Of zie je na een leuke avond de volgende ochtend Karbonkel in je spiegel? Voel je jezelf Piet Piraat of juist Miss Piggy? Eén ding is zeker: voor een goed resultaat is een goede outfit benodigd!<br><br>
+            Het thema van dit jaar is <b>1001 Nachten</b>. Ben jij die rijke olie sjeik die altijd met zijn dikke portemonnee loopt te pochen of juist die arme Alladin die samen met z'n aapje Abu brood steelt? Rijk of arm, een bloedmooie Arabische prinses of een blauwe geest, gemakkelijk zal de prutrace voor niemand zijn!<br><br>
 
-            Het parcours is weer met de nodige zorg uitgestippeld en het ziet er naar ons idee iets te groen uit allemaal, daar willen jullie toch verandering in brengen? Schrijf je dus snel in en daag je vrienden en familie uit! Wij hebben er zin in, jullie vast ook, dus we zien jullie aan de start op <b>zaterdag 13 juli om 19:00!</b><br><br>
+            Het parcours is weer met de nodige zorg uitgestippeld en het ziet er naar ons idee iets te groen uit allemaal, daar willen jullie toch verandering in brengen? Schrijf je dus snel in en daag je vrienden en familie uit! Wij hebben er zin in, jullie vast ook, dus we zien jullie aan de start op <b>zaterdag 12 juli om 19:00!</b><br><br>
 
-            Het inschrijven kan tot en met 12 juli 2024.<br><br>
+            Het inschrijven kan tot en met 11 juli 2025.<br><br>
 
             Prutgroet,<br>
             Organisatie Prutrace De Weere<br><br>
