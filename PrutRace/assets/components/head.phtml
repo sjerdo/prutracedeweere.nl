@@ -1,5 +1,5 @@
 <?php
-$canonical = $_SERVER['SCRIPT_NAME'] === '/index.php' ? '/' : $_SERVER['SCRIPT_NAME'];
+$canonical = $_SERVER['SCRIPT_NAME'] === '/index.php' ? '/' : str_replace('.php', '', $_SERVER['SCRIPT_NAME']);
 ?>
 <head>
   <meta charset="utf-8">
