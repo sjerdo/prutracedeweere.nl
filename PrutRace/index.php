@@ -22,7 +22,7 @@
           </p>
 
 
-          <h3 class="cover-heading">Kids Prutrace</h3>
+          <h3 class="cover-heading">Kids Prutrace 2025</h3>
             <p class="lead">
                 Dit jaar is er ook een kinder prutrace. Voor meer info, bekijk de <a href="/kinderprutrace">Kinder Prutrace</a>.
             </p>

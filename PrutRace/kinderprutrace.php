@@ -16,24 +16,24 @@ include "./assets/components/head.phtml" ?>
         <div class="cover-container">
 
             <div id="home" class="inner cover">
-                <h2 class="cover-heading">Kids Prutrace 2024</h2>
+                <h2 class="cover-heading">Kids Prutrace</h2>
+                <h3 class="cover-heading">Zaterdag 12 juli 2025</h3>
                 <h3 class="cover-heading">Samen de prutrace ervaren</h3>
 
-                <p class="lead">
-                    Dit jaar komt er een heuse kids editie van Prutrace De Weere!<br>
-                    Deze zal voorafgaand aan de Prutrace plaatsvinden op zaterdag 13 juli.<br>
-                    Let op: er kan alleen vanaf 17:30 fysiek ingeschreven worden voor bij café 't Centrum.<br><br>
+                <p class="lead"><br><br>
+                    Dit jaar komt er wederom een heuse kids editie van Prutrace De Weere!<br>
+                    Deze zal voorafgaand aan de Prutrace plaatsvinden op zaterdag 12 juli.<br>
 
-                    Een uitdagend parcours met onder andere twee sloten en diverse obstakels iedereen is een winnaar en
-                    iedereen krijgt een aandenken<br><br>
+                    Een uitdagend parcours met onder andere twee sloten en diverse obstakels<br>
+                    Iedereen is een winnaar en iedereen krijgt een aandenken<br><br>
 
                     Zien we jou en je vrienden aan de start verschijnen?!<br><br>
 
                     <strong>PROGRAMMA:</strong><br>
                 <ul style="text-align: left">
-                    <li>17:30 INSCHRIJVING BIJ CAFÉ 'T CENTRUM</li>
-                    <li>START 18:00 | EINDE 18:20</li>
-                    <li>VAN 8 T/M 13 JAAR</li>
+                    <li>18:00 INSCHRIJVING BIJ CAFÉ 'T CENTRUM</li>
+                    <li>START 18:30 | EINDE 18:45</li>
+                    <li>VAN 7 T/M 13 JAAR</li>
                     <li>ZWEMDIPLOMA VEREIST</li>
                     <li>GRATIS DEELNAME</li>
                     <li>DEELNAME OP EIGEN RISICO</li>
@@ -45,7 +45,7 @@ include "./assets/components/head.phtml" ?>
 
                 <p class="lead">
 
-                    <img src="/assets/img/kinderprutrace_2024.png" alt="Kinderprutrace" width="100%"
+                    <img src="/assets/img/kinderprutrace_2025.png" alt="Kinderprutrace 2025" width="100%"
                          alt="Kids Prutrace">
 
                 </p>
